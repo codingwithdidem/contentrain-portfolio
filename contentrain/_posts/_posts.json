@@ -79,5 +79,18 @@
       "ID": "6dffe5d9-d6f1-4e2b-a4dc-3dada90ab412",
       "url": "public/assets/1648739507420_cover.jpg"
     }
+  },
+  {
+    "slug": "graph-protocol",
+    "content": "Learn How Graph Protocol Works",
+    "ID": "563a64ed-eec7-433d-9abd-621fe0d06ea2",
+    "description": "The Graph is an indexing protocol for organizing blockchain data and making it easily accessible with GraphQL.",
+    "title": "Graph Protocol",
+    "categories": [],
+    "tags": [],
+    "coverImage": "public/assets/1651574197864_Connect.png",
+    "author": [],
+    "ogImage": [],
+    "createdAt": 1651574199951
   }
 ]
