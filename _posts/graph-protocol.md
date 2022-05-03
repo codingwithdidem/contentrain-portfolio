@@ -6,7 +6,11 @@ title: "Graph Protocol"
 categories: []
 tags: []
 coverImage: "public/assets/1651574197864_Connect.png"
-author: []
+author:
+  ID: "553bdcea-f5ab-4dce-9a2f-567cefe96a75"
+  name: "Didem Kucuk"
+  picture: "public/assets/1651574705432_profile.jpeg"
+  createdAt: 1651574708003
 ogImage: []
 createdAt: 1651574199951
 
