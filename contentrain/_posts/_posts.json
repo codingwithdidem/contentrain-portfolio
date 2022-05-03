@@ -95,7 +95,11 @@
       "picture": "public/assets/1651574705432_profile.jpeg",
       "createdAt": 1651574708003
     },
-    "ogImage": [],
+    "ogImage": {
+      "ID": "af98bc69-dd7b-4dbb-a546-c0f8f99733b5",
+      "url": "public/assets/1651574730766_profile.jpeg",
+      "createdAt": 1651574732211
+    },
     "createdAt": 1651574199951
   }
 ]
